@@ -1,0 +1,1 @@
+I was able to LAMP Stack on VM instances using a static IP address provided by LAMP.
